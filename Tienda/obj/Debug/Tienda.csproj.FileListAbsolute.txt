@@ -1,0 +1,9 @@
+C:\Agustin\Examen_GlobalCitizen_Etermax\Tienda\Tienda\bin\Debug\Tienda.exe
+C:\Agustin\Examen_GlobalCitizen_Etermax\Tienda\Tienda\bin\Debug\Tienda.pdb
+C:\Agustin\Examen_GlobalCitizen_Etermax\Tienda\Tienda\obj\Debug\Tienda.csprojAssemblyReference.cache
+C:\Agustin\Examen_GlobalCitizen_Etermax\Tienda\Tienda\obj\Debug\Tienda.Form1.resources
+C:\Agustin\Examen_GlobalCitizen_Etermax\Tienda\Tienda\obj\Debug\Tienda.Properties.Resources.resources
+C:\Agustin\Examen_GlobalCitizen_Etermax\Tienda\Tienda\obj\Debug\Tienda.csproj.GenerateResource.cache
+C:\Agustin\Examen_GlobalCitizen_Etermax\Tienda\Tienda\obj\Debug\Tienda.csproj.CoreCompileInputs.cache
+C:\Agustin\Examen_GlobalCitizen_Etermax\Tienda\Tienda\obj\Debug\Tienda.exe
+C:\Agustin\Examen_GlobalCitizen_Etermax\Tienda\Tienda\obj\Debug\Tienda.pdb
