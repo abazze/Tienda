@@ -243,9 +243,8 @@
             this.lblUnidades.AutoSize = true;
             this.lblUnidades.Location = new System.Drawing.Point(218, 10);
             this.lblUnidades.Name = "lblUnidades";
-            this.lblUnidades.Size = new System.Drawing.Size(35, 13);
+            this.lblUnidades.Size = new System.Drawing.Size(0, 13);
             this.lblUnidades.TabIndex = 1;
-            this.lblUnidades.Text = "label3";
             // 
             // groupBox2
             // 
@@ -329,6 +328,7 @@
             this.btnCotizar.TabIndex = 0;
             this.btnCotizar.Text = "Cotizar";
             this.btnCotizar.UseVisualStyleBackColor = false;
+            this.btnCotizar.Click += new System.EventHandler(this.btnCotizar_Click);
             // 
             // lblPrecioFinal
             // 
