@@ -177,6 +177,7 @@
             this.rdbCamisa.TabStop = true;
             this.rdbCamisa.Text = "Camisa";
             this.rdbCamisa.UseVisualStyleBackColor = true;
+            this.rdbCamisa.CheckedChanged += new System.EventHandler(this.rdbCamisa_CheckedChanged);
             // 
             // rdbPantalon
             // 
@@ -187,6 +188,7 @@
             this.rdbPantalon.TabIndex = 1;
             this.rdbPantalon.Text = "Pantalón";
             this.rdbPantalon.UseVisualStyleBackColor = true;
+            this.rdbPantalon.CheckedChanged += new System.EventHandler(this.rdbPantalon_CheckedChanged);
             // 
             // chkManga
             // 

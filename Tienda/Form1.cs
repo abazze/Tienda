@@ -29,6 +29,8 @@ namespace Tienda
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            this.chkChupin.Enabled = false;
+
             vendedor = new Vendedor("Agustín", "Bazze", 1);
             tienda = new Tienda("Global Citizen", "Av. Emilio Civit 444", vendedor);
 
@@ -107,6 +109,20 @@ namespace Tienda
 
             precioFinal = this.Cotizar();
             this.lblPrecioFinal.Text = "$" + precioFinal.ToString();
+        }
+
+        private void rdbCamisa_CheckedChanged(object sender, EventArgs e)
+        {
+            this.chkChupin.Enabled = false;
+            this.chkCuello.Enabled = true;
+            this.chkManga.Enabled = true;
+        }
+
+        private void rdbPantalon_CheckedChanged(object sender, EventArgs e)
+        {
+            this.chkChupin.Enabled = true;
+            this.chkCuello.Enabled = false;
+            this.chkManga.Enabled = false;
         }
     }
 }
